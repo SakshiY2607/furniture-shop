@@ -1,8 +1,4 @@
-<%-- 
-    Document   : adminlogin
-    Created on : Mar 17, 2019, 10:50:31 PM
-    Author     : Ashish
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 

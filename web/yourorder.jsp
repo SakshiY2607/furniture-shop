@@ -1,8 +1,3 @@
-<%-- 
-    Document   : yourorder
-    Created on : Mar 19, 2019, 2:50:12 PM
-    Author     : Ashish
---%>
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : cat_nav
-    Created on : Mar 18, 2019, 11:32:08 AM
-    Author     : Ashish
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : user_reg
-    Created on : Mar 17, 2019, 6:38:33 PM
-    Author     : Ashish
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

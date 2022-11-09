@@ -1,8 +1,4 @@
-<%-- 
-    Document   : cart
-    Created on : Mar 17, 2019, 4:00:02 PM
-    Author     : Ashish
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

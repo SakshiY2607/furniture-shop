@@ -1,8 +1,4 @@
-<%-- 
-    Document   : checkout
-    Created on : Mar 17, 2019, 4:21:00 PM
-    Author     : Ashish
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

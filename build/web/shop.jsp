@@ -1,8 +1,4 @@
-<%-- 
-    Document   : shop
-    Created on : Mar 18, 2019, 10:13:29 AM
-    Author     : Ashish
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : your_order
-    Created on : Mar 18, 2019, 10:20:00 PM
-    Author     : Ashish
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

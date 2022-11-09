@@ -1,8 +1,4 @@
-<%-- 
-    Document   : all_cat
-    Created on : Mar 18, 2019, 4:40:10 PM
-    Author     : Ashish
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

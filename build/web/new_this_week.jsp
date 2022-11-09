@@ -1,8 +1,4 @@
-<%-- 
-    Document   : new_this_week
-    Created on : Mar 17, 2019, 5:34:21 PM
-    Author     : Ashish
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

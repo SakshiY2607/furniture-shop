@@ -1,8 +1,4 @@
-<%-- 
-    Document   : contact.jsp
-    Created on : Mar 17, 2019, 4:23:47 PM
-    Author     : Ashish
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
