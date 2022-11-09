@@ -28,10 +28,7 @@ import org.apache.tomcat.util.http.fileupload.RequestContext;
 import org.apache.tomcat.util.http.fileupload.disk.DiskFileItemFactory;
 import org.apache.tomcat.util.http.fileupload.servlet.ServletFileUpload;
 
-/**
- *
- * @author Ashish
- */
+
 public class add_pro extends HttpServlet {
 
      String pname, pdetail,pcat,pprice,pqty;

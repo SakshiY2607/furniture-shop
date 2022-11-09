@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Ashish
- */
+
 public class user_reg extends HttpServlet {
 
     String nm,pass,cpass,email,gend,add,cont;
